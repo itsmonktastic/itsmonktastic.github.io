@@ -1,0 +1,44 @@
+.page {
+	max-width: 900px;
+	margin: auto;
+}
+
+.content {
+	font-family: Verdana, Geneva, sans-serif;
+	line-height: 1.4em;
+}
+
+h1, h2, h3 {
+	font-family: serif;
+}
+
+h1 {
+	font-size: 32pt;
+}
+
+h2 {
+	font-size: 24pt;
+	margin: 15px 0 15px 0;
+}
+
+h3 {
+	font-size: 16pt;
+	margin: 35px 0 15px 0;	
+}
+
+.header, .content {
+	padding: 10px 0 10px 0;	
+}
+
+.header {
+	border-bottom: #CFCFCF 1px solid;
+	margin-top: 30px;
+}
+
+p {
+	margin-bottom: 5px;
+}
+
+code {
+	font-family: monospace;
+}
